@@ -1,0 +1,27 @@
+{
+  "name": "pie-pagina-js-javier",
+  "version": "0.1.0",
+  "description": "Creación de pie de página en JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaviZum/pie-de-pagina-js-javier.git"
+  },
+  "keywords": [
+    "pie",
+    "de",
+    "pagina"
+  ],
+  "author": "javizum <javizumaia@hotmail.com> (https://devcamp.jimdofree.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JaviZum/pie-de-pagina-js-javier/issues"
+  },
+  "homepage": "https://github.com/JaviZum/pie-de-pagina-js-javier#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
